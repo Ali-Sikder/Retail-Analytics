@@ -1,9 +1,5 @@
 # Retail Sales Performance & Store Analytics (Power BI)
 
-**Target Roles:** Junior Business Analyst | Data Analyst | Operations Analyst  
-**Tools:** Python (VS Code), SQL (SQLite), Power BI, DAX  
-
----
 
 ## Project Overview
 
@@ -94,3 +90,9 @@ Store efficiency is calculated by normalising sales by store size, enabling fair
 Through this project, I developed a practical understanding of how end-to-end analytics workflows operate in real business environments. I learned the importance of data quality and validation before reporting, how SQL supports reliable data modelling and analysis, and how Power BI dashboards should be designed around business questions rather than raw metrics.
 
 Most importantly, this project strengthened my ability to translate data into insights that support operational and tactical decision-making, which is a core skill for entry-level roles such as Junior Business Analyst, Data Analyst, and Operations Analyst.
+
+
+---
+
+**Target Roles:** Junior Business Analyst | Data Analyst | Operations Analyst  
+**Tools:** Python (VS Code), SQL (SQLite), Power BI, DAX  
