@@ -7,7 +7,12 @@ This project demonstrates an end-to-end analytics workflow aligned with Junior B
 
 The project reflects a typical business analytics process: data preparation in Python, structured validation and modelling using SQL, and KPI-driven reporting in Power BI. The focus was on answering business questions and supporting decision-making rather than producing isolated charts.
 
----
+
+**Tools:** Python (VS Code), SQL (SQLite), Power BI, DAX  
+
+
+--
+
 
 ## Data and Preparation
 
@@ -33,7 +38,9 @@ Once cleaned, the data was stored in a SQLite database and organised into a simp
 
 This structured approach ensured the data was reliable, well-organised, and suitable for KPI-driven analysis and dashboard development.
 
+
 ---
+
 
 ## Dashboard Pages and Business Purpose
 
@@ -51,9 +58,13 @@ It answers:
 
 Key metrics include total sales, average weekly sales, time-based trends, and top-performing stores and departments. This page is designed for quick performance monitoring and to highlight areas that require further analysis.
 
+
 ---
 
+
 ### Page 2: Promotion and Holiday Impact
+
+
 
 <img width="2144" height="1198" alt="image" src="https://github.com/user-attachments/assets/adb2813d-f3a4-453a-80b1-1c3ec6e388c2" />
 
@@ -67,9 +78,12 @@ It answers:
 
 Average weekly sales are benchmarked across promotional and non-promotional periods, with uplift percentages used to support evidence-based assessment of campaign effectiveness. This page supports tactical planning and marketing-related decisions.
 
+
 ---
 
+
 ### Page 3: Store Performance and Efficiency
+
 
 <img width="2144" height="1198" alt="image" src="https://github.com/user-attachments/assets/2d86f8e3-7d1e-45fa-a128-2374c503b5fb" />
 
@@ -83,7 +97,9 @@ It answers:
 
 Store efficiency is calculated by normalising sales by store size, enabling fair comparison across locations. Trend analysis highlights performance consistency and potential operational risk.
 
+
 ---
+
 
 ## Conclusion and Key Learnings
 
@@ -92,7 +108,3 @@ Through this project, I developed a practical understanding of how end-to-end an
 Most importantly, this project strengthened my ability to translate data into insights that support operational and tactical decision-making, which is a core skill for entry-level roles such as Junior Business Analyst, Data Analyst, and Operations Analyst.
 
 
----
-
-**Target Roles:** Junior Business Analyst | Data Analyst | Operations Analyst  
-**Tools:** Python (VS Code), SQL (SQLite), Power BI, DAX  
