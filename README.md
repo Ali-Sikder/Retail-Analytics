@@ -11,7 +11,7 @@ The project reflects a typical business analytics process: data preparation in P
 **Tools:** Python (VS Code), SQL (SQLite), Power BI, DAX  
 
 
---
+
 
 
 ## Data and Preparation
