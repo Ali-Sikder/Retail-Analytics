@@ -43,7 +43,8 @@ This structured approach ensured the data was reliable, well-organised, and suit
 
 ### Page 1: Executive Sales Overview
 
-*(Screenshot above)*
+<img width="2144" height="1198" alt="image" src="https://github.com/user-attachments/assets/b6c22340-c0fd-49e8-8c45-da6ff40a16cb" />
+
 
 This page provides a high-level view of overall business performance and establishes a baseline for analysis.
 
@@ -58,7 +59,8 @@ Key metrics include total sales, average weekly sales, time-based trends, and to
 
 ### Page 2: Promotion and Holiday Impact
 
-*(Screenshot above)*
+<img width="2144" height="1198" alt="image" src="https://github.com/user-attachments/assets/adb2813d-f3a4-453a-80b1-1c3ec6e388c2" />
+
 
 This page evaluates whether promotions and holidays drive meaningful sales uplift.
 
@@ -73,7 +75,8 @@ Average weekly sales are benchmarked across promotional and non-promotional peri
 
 ### Page 3: Store Performance and Efficiency
 
-*(Screenshot above)*
+<img width="2144" height="1198" alt="image" src="https://github.com/user-attachments/assets/2d86f8e3-7d1e-45fa-a128-2374c503b5fb" />
+
 
 This page focuses on operational performance by analysing store-level efficiency rather than raw sales volume.
 
