@@ -44,6 +44,10 @@ This structured approach ensured the data was reliable, well-organised, and suit
 
 ## Dashboard Pages and Business Purpose
 
+### Dashboard Link: 
+
+https://app.powerbi.com/view?r=eyJrIjoiMzkxYWVhY2ItYTE5ZS00ZDkxLTgzZWQtNDVmMDY0MGMwZWJmIiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9
+
 ### Page 1: Executive Sales Overview
 
 <img width="2144" height="1198" alt="image" src="https://github.com/user-attachments/assets/b6c22340-c0fd-49e8-8c45-da6ff40a16cb" />
